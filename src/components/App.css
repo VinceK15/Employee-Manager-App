@@ -1,0 +1,35 @@
+h3{
+    padding-top: 5%;
+    text-align: center;
+    color: lightgrey;
+}
+
+label{
+    color: lightgrey;
+}
+
+.form-group{
+    text-align: center;
+}
+
+.form-control{
+    display:block;
+    position:relative;
+ width: 30%;
+ margin-left: 36%;
+}
+
+.container{
+    width:100vw;
+    height: 100vh;
+    background-image: url("./img/bluebackground.jpg");
+    background-repeat: no-repeat;
+}
+
+th{
+    color: lightgrey;
+}
+
+tbody{
+    color: lightgrey;
+}
