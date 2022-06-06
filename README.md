@@ -1,4 +1,5 @@
 An Employee manager app created with Bootstrap + MERN stack
+
 Database is currently connected to my computer, have to edit the database to work on different PCs
 
 # Getting Started with Create React App
