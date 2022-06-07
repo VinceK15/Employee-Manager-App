@@ -1,3 +1,8 @@
+An Employee manager app created with Bootstrap + MERN stack
+
+Have to enter username and password to work on different PCs on MongoDB in config.env file:
+ATLAS_URI=mongodb+srv://<username>:<password>@cluster0.dwaj0.mongodb.net
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
